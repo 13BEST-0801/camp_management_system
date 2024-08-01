@@ -9,6 +9,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**  (김태준)연습으로 친거에요..
+ *  github git 기능 연습(허 담)
  * Notification
  * Java, 객체지향이 아직 익숙하지 않은 분들은 위한 소스코드 틀입니다.
  * main 메서드를 실행하면 프로그램이 실행됩니다.
